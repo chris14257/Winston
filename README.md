@@ -1,1 +1,1 @@
-            # Winston  Self-voicing IDE and personal productivity environment for blind users on Windows. Written in Python 3.11. Uses the JAWS Eloquence TTS engine for output and pynput             for capturing input.
+            # Winston  Self-voicing IDE and personal productivity environment for blind users on Windows. Written in Python 3.11. Uses the JAWS Eloquence TTS engine for output and pynput             for capturing input. There is no GUI for Winston as this project is entirely focused on blind users.
