@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+tests/test_editor.py
+winston/__init__.py
+winston/anchor.py
+winston/dialogs.py
+winston.egg-info/PKG-INFO
+winston.egg-info/SOURCES.txt
+winston.egg-info/dependency_links.txt
+winston.egg-info/requires.txt
+winston.egg-info/top_level.txt
+winston/applets/__init__.py
+winston/applets/editor.py

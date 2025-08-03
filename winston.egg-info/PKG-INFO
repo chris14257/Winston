@@ -1,0 +1,4 @@
+Metadata-Version: 2.4
+Name: winston
+Version: 0.1.0
+Requires-Dist: pynput>=1.7.6
